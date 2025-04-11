@@ -4,14 +4,16 @@ Welcome to my GitHub Profile! Here you'll find a collection of my projects in da
 
 ## Projects
 
-- [Python Churn Analysis](https://github.com/helat001/python-churn-analysis)  
-  A project using Python and XGBoost to predict customer churn.
-- [SQL Retail Analytics](https://github.com/helat001/sql-retail-analytics)  
-  An analysis of retail data that provides actionable insights.
-- [R Diabetes Prediction](https://github.com/helat001/r-diabetes-prediction)  
-  A logistic regression project in R for predicting diabetes.
+- **[Diabetes Health Indicators](https://github.com/helat001/Diabetes_Health_Indicators)**  
+  An R project that builds logistic regression models to predict diabetes using real-world health data from the BRFSS 2015 survey.
+
+- **[Northwind SQL Analysis](https://github.com/helat001/Northwind_SQL_Analysis)**  
+  An SQL project that analyzes the Northwind retail database to uncover insights related to product performance, customer segmentation, and inventory management.
+
+- **[Telco Customers Churn](https://github.com/helat001/Telco-Customers-Churn)**  
+  A Python project utilizing XGBoost and SHAP to predict customer churn and derive actionable business recommendations.
 
 ## About Me
 
-I’m passionate about data science and developing data-driven solutions to real-world challenges. Feel free to connect if you have any questions or collaboration ideas!
+I’m passionate about data science and developing data-driven solutions to real-world challenges. 
 
